@@ -37,7 +37,7 @@ h3 a{text-decoration: none;
     color: #012641;}
 h3 a:hover{text-decoration: underline;}
 
-footer {font-size:  .80em;
+footer {font-size: .80em;
     text-align: center;
     font-style: italic;
     color: #f4fbfd;
@@ -45,7 +45,9 @@ footer {font-size:  .80em;
     margin: 1em auto;
     max-width: 800px;
     border-radius: 8px;
-    padding: 0.5em;
+    padding: 0.4em;
+    padding-left: 5%;
+    padding-right: 5%;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);} 
 
 section {padding: 2em;
