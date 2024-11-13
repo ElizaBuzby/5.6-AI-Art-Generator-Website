@@ -29,8 +29,10 @@ nav a:hover {text-decoration: underline;}
 h2 {color: goldenrod;
     text-align: center;}
 
-h3 {text-align: center;
-    text-decoration: none;}
+h3 {text-align: center;}
+
+h3 a{text-decoration: none;
+    color: #012641;}
 h3 a:hover{text-decoration: underline;}
 
 footer {font-size:  .80em;
