@@ -18,7 +18,6 @@ nav a {text-decoration: none;
     padding: 0.5em;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
     -webkit-nbsp-mode: normal;}
-
 nav a:hover {text-decoration: underline;}
 
 h2 {color: goldenrod;
@@ -35,14 +34,12 @@ footer {font-size:  .80em;
     color: #f4fbfd;
     background-color: #012641;
     padding: 0.5em;
-    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
-    
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);} 
 
-    section {
-        padding: 2em;
-        margin: 1em auto;
-        max-width: 800px;
-        background-color: #F4FbFD;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
-    }
+section {
+    padding: 2em;
+    margin: 1em auto;
+    max-width: 800px;
+    background-color: #F4FbFD;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
