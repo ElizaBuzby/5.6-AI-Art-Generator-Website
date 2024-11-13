@@ -15,6 +15,7 @@ header {background-color: #3d96b6;
 
 nav {text-align: center;
     background-color: #012641;
+    margin: 1em auto;
     padding: 0.5em;
     max-width: 800px;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
@@ -49,5 +50,4 @@ section {
     max-width: 800px;
     background-color: #F4FbFD;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
-    width: header;}
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
