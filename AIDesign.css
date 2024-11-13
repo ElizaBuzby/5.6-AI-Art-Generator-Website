@@ -1,5 +1,9 @@
-main {font-family:fantasy;}
+body {font-family:fantasy;}
+main {color: #012641;}
 header {background-color: #3d96b6;
-    color: #F4FbFD;}
+    color: #F4FbFD;
+    padding: 2em;
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
 nav {text-decoration: none;}
 h2 {color: goldenrod;}
+.content {}
