@@ -11,6 +11,7 @@ header {background-color: #3d96b6;
     margin: 1em auto;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
 
+nav {text-align: center;}
 nav a {text-decoration: none;
     text-align: center;
     color: #f4fbfd;
@@ -33,6 +34,7 @@ footer {font-size:  .80em;
     line-height: 150%;
     color: #f4fbfd;
     background-color: #012641;
+    max-width: 800px;
     padding: 0.5em;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);} 
 
