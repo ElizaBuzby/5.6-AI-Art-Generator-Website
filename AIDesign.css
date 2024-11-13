@@ -6,4 +6,5 @@ header {background-color: #3d96b6;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
 nav {text-decoration: none;}
 h2 {color: goldenrod;}
-.content {}
+.content {padding: 2em;
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
