@@ -21,7 +21,11 @@ footer {font-size:  .80em;
     text-align: center;
     font-style: italic;
     line-height: 150%;
-    padding: 1em}
+    color: #f4fbfd;
+    background-color: #012641;
+    padding: 1em;
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
+    
 
 .content {padding: 5%;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
