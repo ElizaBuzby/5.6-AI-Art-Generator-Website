@@ -23,7 +23,9 @@ nav a:hover {text-decoration: underline;}
 h2 {color: goldenrod;
     text-align: center;}
 
-h3 {text-align: center;}
+h3 {text-align: center;
+    text-decoration: none;}
+h3 a:hover{text-decoration: underline;}
 
 footer {font-size:  .80em;
     text-align: center;
