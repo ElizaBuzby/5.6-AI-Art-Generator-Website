@@ -13,7 +13,10 @@ header {background-color: #3d96b6;
 nav a {text-decoration: none;
     text-align: center;
     color: #f4fbfd;
-    background-color: #012641;}
+    background-color: #012641;
+    padding: 0.5em;
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
+    -webkit-nbsp-mode: normal;}
 
 nav a:hover {text-decoration: underline;}
 
@@ -25,7 +28,7 @@ footer {font-size:  .80em;
     line-height: 150%;
     color: #f4fbfd;
     background-color: #012641;
-    padding: 1em;
+    padding: 0.5em;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
     
 
