@@ -48,4 +48,5 @@ section {
     max-width: 800px;
     background-color: #F4FbFD;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);}
+    box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
+    width: header;}
