@@ -35,6 +35,14 @@ h3 a{text-decoration: none;
     color: #2d7b97;}
 h3 a:hover{text-decoration: underline;}
 
+a {text-decoration: none;
+    color: #012641;}
+a:hover {text-decoration: underline;}
+
+ul li a {text-decoration: none;
+    color: #012641;}
+ul li a:hover {text-decoration: underline;}
+
 footer {font-size: .80em;
     text-align: center;
     font-style: italic;
