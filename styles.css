@@ -61,6 +61,5 @@ section a {text-decoration: none;
 section a:hover {text-decoration: underline;}
     
 section ul li a {text-decoration: none;
-    color: #012641;
-    line-height: 200%;}
+    color: #012641;}
 section ul li a:hover {text-decoration: underline;}
