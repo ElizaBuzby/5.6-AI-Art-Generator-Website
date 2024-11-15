@@ -11,9 +11,6 @@ header {background-color: #3d96b6;
     box-shadow: 0 4px 8px rgba(2, 31, 43, 0.2);
     border-radius: 8px;}
 
-h1 {border-bottom-color: goldenrod;
-    border-block-start-style: solid;}
-
 nav {text-align: center;
     background-color: #012641;
     margin: 1em auto;
