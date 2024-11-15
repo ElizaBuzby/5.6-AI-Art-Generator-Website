@@ -35,8 +35,10 @@ h3 a{text-decoration: none;
     color: #2d7b97;}
 h3 a:hover{text-decoration: underline;}
 
-ul li {list-style-type: square;}
-ol li {list-style-type: upper-roman;}
+ul li {list-style-type: square;
+    line-height: 200%;}
+ol li {list-style-type: upper-roman;
+    line-height: 200%;}
 
 footer {font-size: .80em;
     text-align: center;
