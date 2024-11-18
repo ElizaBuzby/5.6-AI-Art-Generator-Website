@@ -2,7 +2,7 @@ body {font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: #e2eff4;
     align-items: center;}
 
-header {background-color: #075976;
+header {background-color: #327289;
     color: #F4FbFD;
     padding: 5%;
     text-align: center;
@@ -27,7 +27,7 @@ nav a:hover {text-decoration: underline;}
 
 main {color: #012641;}
 
-h2 {color: goldenrod;
+h2 {color: rgb(201, 148, 24);
     text-align: center;}
 
 h3 {text-align: center;}
